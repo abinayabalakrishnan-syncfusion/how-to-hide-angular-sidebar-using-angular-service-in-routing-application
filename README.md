@@ -1,6 +1,5 @@
 # How to Hide the Syncfusion Angular Sidebar Using an Angular Service in a Routing Application
 
-**Repository Description**  
 This repository contains an Angular sample that demonstrates how to hide and control the visibility of the Syncfusion Angular Sidebar component using an Angular service in a routing‑based application.
 
 This project was generated with Angular CLI version 6.1.0 and provides a reference implementation for managing Sidebar behavior across different routes in an Angular application.
